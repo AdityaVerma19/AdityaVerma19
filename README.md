@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
 Hi 👋, I'm Aditya
 </h1>
@@ -216,7 +215,6 @@ Working on enterprise-grade AI solutions involving:
 ### "Turning Ideas into Intelligent Systems using AI 🚀"
 
 </p>
-```
 
 <!--
 **AdityaVerma19/AdityaVerma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

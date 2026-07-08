@@ -84,7 +84,6 @@ I enjoy exploring emerging AI technologies, optimizing inference pipelines, expe
   - Retrieval-Augmented Generation (RAG)
   - Prompt Engineering
   - Document AI
-  - AI Automation
 
 - **Machine Learning**
   - Computer Vision
@@ -101,27 +100,10 @@ I enjoy exploring emerging AI technologies, optimizing inference pipelines, expe
   - Production Deployments
 
 - **Cloud & DevOps**
-  - Docker
   - Git & GitHub
   - Vercel
   - Render
   - API Deployment
-
----
-
-## Engineering Principles
-
-✔ Build scalable systems over quick prototypes
-
-✔ Write clean, maintainable, and modular code
-
-✔ Focus on performance, reliability, and security
-
-✔ Design products with real users in mind
-
-✔ Continuously learn, experiment, and contribute
-
----
 
 ## Current Interests
 
@@ -139,7 +121,6 @@ I enjoy exploring emerging AI technologies, optimizing inference pipelines, expe
 ## Open To
 
 - AI Engineer Roles
-- Software Development Engineer (SDE) Roles
 - Machine Learning Engineer Roles
 - Full Stack Engineering Opportunities
 - Open Source Collaborations
@@ -245,14 +226,14 @@ I enjoy exploring emerging AI technologies, optimizing inference pipelines, expe
 
 | Domain | Technologies |
 |:--------|:-------------|
-| **Programming** | Python • C++ • C • JavaScript • Java |
-| **Frontend** | React • Tailwind CSS • HTML5 • CSS3 • Bootstrap • Vite |
+| **Programming** | Python • C++ • C • JavaScript |
+| **Frontend** | React • Tailwind CSS • HTML5 • CSS3 • Bootstrap |
 | **Backend** | Node.js • Express.js • REST APIs • JWT Authentication |
 | **Databases** | MongoDB • MySQL • PostgreSQL • Firebase |
 | **AI / ML** | Scikit-Learn • Transformers • Hugging Face • OpenCV • NumPy • Pandas |
 | **Generative AI** | LLMs • RAG • Prompt Engineering • Vector Search • Embeddings • Document AI |
-| **Deployment** | Docker • Vercel • Render • GitHub Actions |
-| **Developer Tools** | Git • GitHub • VS Code • Postman • Linux |
+| **Deployment** | Vercel • Render • GitHub Actions |
+| **Developer Tools** | Git • GitHub • VS Code • Postman |
 | **Core CS** | Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks |
 
 ---
@@ -267,18 +248,18 @@ I enjoy exploring emerging AI technologies, optimizing inference pipelines, expe
 
 ---
 
-| **Domain** | **Proficiency** | **Expertise & Experience** |
-|:-----------|::-------------:|:---------------------------|
-| **Large Language Models (LLMs)** | ★★★★★ | Hands-on experience building production-grade applications using open-source LLMs for Document AI, semantic schema mapping, information extraction, and enterprise workflow automation. |
-| **Retrieval-Augmented Generation (RAG)** | ★★★★★ | Developed end-to-end RAG systems with embeddings, vector search, prompt engineering, and context-aware retrieval to improve response quality while minimizing hallucinations. |
-| **Prompt Engineering** | ★★★★★ | Designed optimized prompts, structured reasoning workflows, extraction templates, and multi-stage prompting strategies for reliable enterprise AI applications. |
-| **Document AI** | ★★★★★ | Engineering intelligent document processing pipelines for financial statements, audit reports, ITRs, balance sheets, and semi-structured documents using LLM-powered extraction. |
-| **Natural Language Processing** | ★★★★★ | Built multilingual NLP pipelines using Transformer architectures for misinformation detection, classification, preprocessing, tokenization, and semantic understanding. |
-| **Machine Learning** | ★★★★★ | Experience with supervised learning, feature engineering, model evaluation, cross-validation, ensemble techniques, and production deployment of ML models. |
-| **Computer Vision** | ★★★★☆ | Developed automated chest X-ray disease detection systems using Digital Image Processing, feature extraction (GLCM), segmentation, and Support Vector Machines. |
-| **Deep Learning** | ★★★★☆ | Familiar with neural networks, transfer learning, transformer architectures, embeddings, and fine-tuning workflows for modern AI applications. |
-| **Data Science** | ★★★★☆ | Data preprocessing, visualization, statistical analysis, feature engineering, model interpretation, and exploratory data analysis using Python ecosystems. |
-| **Generative AI** | ★★★★★ | Building AI-powered enterprise solutions leveraging LLMs, embeddings, semantic search, AI assistants, intelligent automation, and workflow orchestration. |
+
+| **Domain** | **Proficiency** | **Expertise** |
+|:-----------|:---------------:|:--------------|
+| **Large Language Models (LLMs)** | ⭐⭐⭐⭐⭐ | Enterprise LLM Applications • Prompt Engineering • Structured Information Extraction • Open-Source LLMs |
+| **Retrieval-Augmented Generation (RAG)** | ⭐⭐⭐⭐⭐ | Embeddings • Vector Search • Semantic Retrieval • Context-Aware Question Answering |
+| **Document Intelligence** | ⭐⭐⭐⭐⭐ | Financial Document Parsing • OCR Pipelines • Layout Understanding • Information Extraction |
+| **Natural Language Processing** | ⭐⭐⭐⭐⭐ | Transformers • MuRIL • Text Classification • Named Entity Recognition • Tokenization |
+| **Machine Learning** | ⭐⭐⭐⭐⭐ | Classification • Feature Engineering • Model Evaluation • Scikit-Learn Pipelines |
+| **Computer Vision** | ⭐⭐⭐⭐☆ | Image Processing • OpenCV • Digital Image Processing • Medical Imaging |
+| **Generative AI** | ⭐⭐⭐⭐⭐ | Prompt Engineering • AI Assistants • Workflow Automation • Enterprise AI Solutions |
+| **Deep Learning** | ⭐⭐⭐⭐☆ | Neural Networks • Transfer Learning • Transformer Architectures |
+| **Data Engineering** | ⭐⭐⭐⭐⭐ | Data Cleaning • Feature Extraction • Structured Data Pipelines |
 
 ---
 
@@ -345,7 +326,6 @@ I enjoy exploring emerging AI technologies, optimizing inference pipelines, expe
 - AI Infrastructure & Inference Optimization
 - Long-Context LLMs
 - Financial AI Applications
-- AI-Powered Software Engineering
 
 ---
 
@@ -444,7 +424,7 @@ Built an enterprise Retrieval-Augmented Generation (RAG) chatbot capable of answ
 
 | Category | Details |
 |-----------|---------|
-| **Stack** | Python • FastAPI • Hugging Face • Vector Embeddings • Docker |
+| **Stack** | Python • FastAPI • Hugging Face • Vector Embeddings |
 | **Scale** | Multi-document retrieval system |
 | **Performance** | Low-latency semantic search and contextual response generation |
 | **Security** | Containerized deployment with REST APIs |
@@ -670,33 +650,6 @@ Designed and deployed an enterprise Retrieval-Augmented Generation (RAG) chatbot
 
 ---
 
-# Core Responsibilities Across Roles
-
-✔ AI System Design
-
-✔ Production LLM Integration
-
-✔ Document Intelligence
-
-✔ Prompt Engineering
-
-✔ Semantic Search
-
-✔ REST API Development
-
-✔ Full Stack Web Development
-
-✔ Cloud Deployment
-
-✔ Performance Optimization
-
-✔ Cross-functional Collaboration
-
-✔ Agile Development
-
-✔ Enterprise Software Engineering
-
----
 
 # Technical Skills Applied
 
@@ -1156,37 +1109,6 @@ Actively expanding expertise in **Large Language Models**, **Agentic AI**, **Sys
 <img src="https://raw.githubusercontent.com/AdityaVerma19/AdityaVerma19/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - Advanced LLM Systems
-  - Agentic AI
-  - Distributed Systems
-  - Cloud Architecture
-  - System Design
-
-building:
-  - Enterprise Document AI
-  - Intelligent RAG Applications
-  - Full Stack AI Products
-  - Open Source AI Tools
-
-exploring:
-  - Multimodal AI
-  - AI Agents
-  - Long Context Models
-  - Inference Optimization
-
-open_to:
-  - AI Engineer Roles
-  - Software Engineer Roles
-  - Open Source Collaboration
-  - Research Opportunities
-```
 
 ---
 
